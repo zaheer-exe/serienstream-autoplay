@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         s.to autoplay
-// @namespace    https://github.com/zaheer-exe/serienstream-autoplay
+// @namespace    https://github.com/zaheer-exe
 // @version      6
 // @description  Autoplay für SerienStream.to
 // @author       zaheer-exe
